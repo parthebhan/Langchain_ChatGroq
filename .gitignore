@@ -165,4 +165,4 @@ cython_debug/
 groq.ipynb
 llama3.py
 readme.txt
-.gitignore/
+.gitignore
