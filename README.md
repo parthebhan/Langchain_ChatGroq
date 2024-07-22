@@ -32,6 +32,8 @@ To use ChatGroq:
 2. Set up environment variables (`GOOGLE_API_KEY`, `GROQ_API_KEY`) to authenticate and configure external services.
 3. Run the Streamlit application (`streamlit run app.py`) and interact with the provided UI to input prompts and receive accurate responses based on contextual information.
 
+###  Application Created by > Parthebhan Pari
+
 ## Notes
 
 - Customize and extend the application by modifying the prompt templates, integrating additional AI models, or enhancing document retrieval capabilities.
