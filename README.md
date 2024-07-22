@@ -1,4 +1,4 @@
-# **ChatGroq: Your AI-Powered Information Hub**
+# **ChatGroq: An AI-Powered Information Hub**
 
 ChatGroq is a Streamlit application designed to serve as an **AI-powered information hub**, leveraging various components from the `langchain` library and integrating Google's Generative AI embeddings for answering questions based on provided context.
 
