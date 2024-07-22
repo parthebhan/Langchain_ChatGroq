@@ -163,6 +163,7 @@ cython_debug/
 
 
 groq.ipynb
+app_exp.py
 llama3.py
 readme.txt
-app_exp.py
+
