@@ -5,7 +5,7 @@
 The code creates a Streamlit application (`app.py`) that allows users to interact with content extracted from a webpage. Users can input a URL, initialize a vector store from the webpage content, and then query the content using AI techniques. The app utilizes embeddings, similarity search, and a conversational AI model for generating responses.
 
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit_App_-Langchain_PDF_Reader-ff69b4.svg?style=for-the-badge&logo=Streamlit)](https://langchainragwebpagefaisschatgroq-qmewpejud3jortzh6stoa5.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit_App_-Web_page_Q&A-ff69b4.svg?style=for-the-badge&logo=Streamlit)](https://langchainragwebpagefaisschatgroq-qmewpejud3jortzh6stoa5.streamlit.app/)
 
 ### Dependencies
 
