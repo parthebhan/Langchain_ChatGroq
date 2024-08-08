@@ -1,4 +1,4 @@
-# **ChatGroq: An AI-Powered Information Hub**
+# **ChatGroq: An AI-Powered Information Hub - Ask Questions and Get Answers**
 
 ### Purpose
 

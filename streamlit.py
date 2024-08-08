@@ -15,7 +15,7 @@ GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
 groq_api_key = st.secrets['GROQ_API_KEY']
 
 # Streamlit UI
-st.title("ChatGroq: Your AI-Powered Information Hub")
+st.title("ChatGroq - Webpage URL - Ask Questions and Get Answers")
 
 # Input for webpage URL
 webpage_url = st.text_input("Enter the webpage URL")
