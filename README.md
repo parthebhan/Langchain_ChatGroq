@@ -63,15 +63,6 @@ This app was created by `Parthebhan Pari`.
 - Ensure that you have a stable internet connection to interact with the Gemini Pro model.
 - For security reasons, handle and store your API key securely.
 
-### Connect with Me
-
-Feel free to connect with me on:
-- [Portfolio](#)
-- [LinkedIn Profile](#)
-- [Kaggle Profile](#)
-- [Tableau Profile](#)
-
-
 
 ## 🔗 Connect with Me
 
