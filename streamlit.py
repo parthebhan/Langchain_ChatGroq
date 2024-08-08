@@ -30,8 +30,9 @@ if "vectors" not in st.session_state:
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
         final_documents = text_splitter.split_documents(docs[:50])
         vectors = FAISS.from_documents(final_documents, embeddings)
-
+        st.write("Vector DB Ready , Enter the query below!")
         st.session_state.vectors = vectors
+
 
 # Initialize ChatGroq instance
 llm = ChatGroq(groq_api_key=groq_api_key, model_name="mixtral-8x7b-32768")
