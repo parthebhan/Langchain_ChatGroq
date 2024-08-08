@@ -74,3 +74,8 @@ if "vectors" in st.session_state:
                 st.write("--------------------------------")
 else:
     st.warning("Please enter a valid webpage URL to initialize document vectors.")
+
+if st.button('Reset'):
+    st.session_state.clear()  # Clears all session state variables
+    st.write("App has been reset.")
+
